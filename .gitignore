@@ -36,3 +36,17 @@
 /player_win_x86_s.pdb
 /player_win_development_x86.pdb
 /player_win_development_x86_s.pdb
+
+# Play Games configuration
+/ProjectSettings/GooglePlayGameSettings.txt
+/ProjectSettings/GoogleDependencyGooglePlayGames.xml
+
+# Play Games resources
+#/Assets/Plugins/Android/play-services-base-*
+#/Assets/Plugins/Android/play-services-basement-*
+#/Assets/Plugins/Android/play-services-drive-*
+#/Assets/Plugins/Android/play-services-games-*
+#/Assets/Plugins/Android/play-services-nearby-*
+#/Assets/Plugins/Android/play-services-plus-*
+#/Assets/Plugins/Android/support-annotations-*
+#/Assets/Plugins/Android/support-v4-*
