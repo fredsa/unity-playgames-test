@@ -1,0 +1,9 @@
+lastUpgrade=00932
+proj.pluginVersion=0.9.32
+proj.AppId=159165987737
+proj.classDir=Assets
+proj.ConstantsClassName=Constants
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e159165987737%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_achievement_1%22%3eCgkImfeg-NAEEAIQAA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_achievement_2%22%3eCgkImfeg-NAEEAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_achievement_3%22%3eCgkImfeg-NAEEAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_achievement_4%22%3eCgkImfeg-NAEEAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_achievement_5%22%3eCgkImfeg-NAEEAIQBA%3c%2fstring%3e%0a%3c%2fresources%3e%0a
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
