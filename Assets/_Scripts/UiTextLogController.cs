@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 public class UiTextLogController : MonoBehaviour
 {
-	static int MAX_ENTRIES = 20;
+	static int MAX_ENTRIES = 100;
 
 	LinkedList<string> buf = new LinkedList<string> ();
 	Text text;

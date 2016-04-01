@@ -102,8 +102,11 @@ do
 
     if [ "${1:-}" != "-n" ]
     then
-      android_version=$( adb shell getprop ro.build.version.release | cut -d. -f1 )
-      if [ $android_version -ge 6 ]
+      android_version="$( adb shell getprop ro.build.version.release | cut -d. -f1 )"
+      if [ $android_version == "N" ]
+      then
+        grant_flag="-g"
+      elif [ $android_version -ge 6 ]
       then
         grant_flag="-g"
       else
